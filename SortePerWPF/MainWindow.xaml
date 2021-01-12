@@ -8,7 +8,7 @@
         FontSize="14"
         Background="ForestGreen"
         Name="Mainwindow"
-        Title="Sorte Per" Height="450" Width="1200">
+        Title="Sorte Per" Height="450" Width="1300">
 
     <Grid Name="BaseGrid">
         <Grid.ColumnDefinitions>

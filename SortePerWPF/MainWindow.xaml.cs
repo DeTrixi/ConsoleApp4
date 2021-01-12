@@ -63,7 +63,7 @@ namespace SortePerWPF
         }
 
 
-        // Event i raised if there ar found a looser
+        // Event i raised if there are found a looser
         private void ValidateOnLoserHasBeenFound(object sender, string e)
         {
             // TODO Open up a winner page
@@ -78,6 +78,7 @@ namespace SortePerWPF
                     UriKind.RelativeOrAbsolute));
             DisplayCards.Children.Add(cardImage);
             Mainwindow.Width = 500;
+            // Hides the play button
             Play.Visibility = Visibility.Hidden;
 
         }
@@ -174,7 +175,7 @@ namespace SortePerWPF
         private void Game_CallNexPlayer(object sender, IPlayerModel e)
         {
             // subscribes to event next player to play the game.
-            HeadLineText.Content = $"{e.Name}:  Your turn to draw a card from the right";
+            HeadLineText.Content = $"{e.Name}:  Your turn to draw a card from the player to the right";
 
             ShowCurrentPlayersCards(e);
         }
@@ -192,7 +193,7 @@ namespace SortePerWPF
             {
                 Image cardImage = new Image();
                 //name.MaxHeight = 30;
-                cardImage.MaxWidth = 90;
+                cardImage.MaxWidth = 85;
                 string path = Directory.GetCurrentDirectory();
 
                 cardImage.Source =
