@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SortePerLibrary\SortePerLibrary.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Resources" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Resources\Images\AnimalPictures\bee.png" />
+      <Resource Include="Resources\Images\AnimalPictures\bee.png" />
+      <None Remove="Resources\Images\AnimalPictures\bear.png" />
+      <Resource Include="Resources\Images\AnimalPictures\bear.png" />
+      <None Remove="Resources\Images\AnimalPictures\camel.png" />
+      <Resource Include="Resources\Images\AnimalPictures\camel.png" />
+      <None Remove="Resources\Images\AnimalPictures\cat.png" />
+      <Resource Include="Resources\Images\AnimalPictures\cat.png" />
+      <None Remove="Resources\Images\AnimalPictures\crab.png" />
+      <Resource Include="Resources\Images\AnimalPictures\crab.png" />
+      <None Remove="Resources\Images\AnimalPictures\grasshopper.png" />
+      <Resource Include="Resources\Images\AnimalPictures\grasshopper.png" />
+      <None Remove="Resources\Images\AnimalPictures\ladybug.png" />
+      <Resource Include="Resources\Images\AnimalPictures\ladybug.png" />
+      <None Remove="Resources\Images\AnimalPictures\mouse.png" />
+      <Resource Include="Resources\Images\AnimalPictures\mouse.png" />
+      <None Remove="Resources\Images\AnimalPictures\ostrich.png" />
+      <Resource Include="Resources\Images\AnimalPictures\ostrich.png" />
+      <None Remove="Resources\Images\AnimalPictures\Owl.png" />
+      <Resource Include="Resources\Images\AnimalPictures\Owl.png" />
+      <None Remove="Resources\Images\AnimalPictures\panda.png" />
+      <Resource Include="Resources\Images\AnimalPictures\panda.png" />
+      <None Remove="Resources\Images\AnimalPictures\parrot.png" />
+      <Resource Include="Resources\Images\AnimalPictures\parrot.png" />
+      <None Remove="Resources\Images\AnimalPictures\penquin.png" />
+      <Resource Include="Resources\Images\AnimalPictures\penquin.png" />
+      <None Remove="Resources\Images\AnimalPictures\seahorse.png" />
+      <Resource Include="Resources\Images\AnimalPictures\seahorse.png" />
+      <None Remove="Resources\Images\AnimalPictures\seal.png" />
+      <Resource Include="Resources\Images\AnimalPictures\seal.png" />
+      <None Remove="Resources\Images\AnimalPictures\shark.png" />
+      <Resource Include="Resources\Images\AnimalPictures\shark.png" />
+      <None Remove="Resources\Images\AnimalPictures\sheep.png" />
+      <Resource Include="Resources\Images\AnimalPictures\sheep.png" />
+      <None Remove="Resources\Images\AnimalPictures\snake.png" />
+      <Resource Include="Resources\Images\AnimalPictures\snake.png" />
+      <None Remove="Resources\Images\AnimalPictures\squid.png" />
+      <Resource Include="Resources\Images\AnimalPictures\squid.png" />
+      <None Remove="Resources\Images\AnimalPictures\whale.png" />
+      <Resource Include="Resources\Images\AnimalPictures\whale.png" />
+      <None Remove="Resources\Images\AnimalPictures\B1.png" />
+      <Resource Include="Resources\Images\AnimalPictures\B1.png" />
+      <None Remove="Resources\Images\AnimalPictures\B2.png" />
+      <Resource Include="Resources\Images\AnimalPictures\B2.png" />
+      <None Remove="Resources\Images\AnimalPictures\bull.png" />
+      <Resource Include="Resources\Images\AnimalPictures\bull.png" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\bin\Debug\net5.0\SortePerLibrary.deps.json
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\bin\Debug\net5.0\SortePerLibrary.dll
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\bin\Debug\net5.0\ref\SortePerLibrary.dll
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\bin\Debug\net5.0\SortePerLibrary.pdb
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.csprojAssemblyReference.cache
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.AssemblyInfoInputs.cache
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.AssemblyInfo.cs
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.dll
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\ref\SortePerLibrary.dll
+C:\Users\flemm\RiderProjects\SortePerWPF\SortePerLibrary\obj\Debug\net5.0\SortePerLibrary.pdb

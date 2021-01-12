@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SortePerWPF/1.0.0": {
+        "dependencies": {
+          "SortePerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SortePerWPF.dll": {}
+        }
+      },
+      "SortePerLibrary/1.0.0": {
+        "runtime": {
+          "SortePerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortePerWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortePerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
